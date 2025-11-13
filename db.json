@@ -8,12 +8,14 @@
     {
       "id": 1,
       "title": "Design Portofolio",
-      "desc": "Logo for Foundation"
+      "desc": "Logo for Foundation",
+      "image": "/images/logo1.png"
     },
     {
       "id": 2,
       "title": "T shirt graphic design",
-      "desc": "Making tshirt graphic design for client"
+      "desc": "Making tshirt graphic design for client",
+      "image": "/images/BACK.png"
     }
   ],
   "about": {
