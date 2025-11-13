@@ -13,10 +13,10 @@ export default function Contact() {
 
   return (
     <div className="max-w-md mx-auto text-center mt-10">
-      <h1 className="text-3xl font-bold mb-4">Contact Me</h1>
-      <p className="text-gray-200 mb-2">📧 {contact.email}</p>
-      <p className="text-gray-200 mb-2">📷 {contact.instagram}</p>
-      <p className="text-gray-200">📍 {contact.location}</p>
+      <h1 className="text-3xl font-bold mb-4 text-[#e0472e]">Contact Me</h1>
+      <p className="text-gray-700 mb-2">📧 {contact.email}</p>
+      <p className="text-gray-700 mb-2">📷 {contact.instagram}</p>
+      <p className="text-gray-700">📍 {contact.location}</p>
     </div>
   );
 }

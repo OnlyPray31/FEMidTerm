@@ -12,14 +12,14 @@ export default function ProjectsList() {
   return (
     <div className="grid md:grid-cols-2 gap-6 mt-6">
       {projects.map((p) => (
-        <div key={p.id} className="p-5 bg-white/10 rounded-xl shadow hover:scale-105 transition">
+        <div key={p.id} className="p-5 bg-black/10 rounded-xl shadow hover:scale-105 transition">
           <img
             src={p.image}
             alt={p.title}
             className="w-full h-48 object-cover rounded-lg mb-4"
           />
-          <h3 className="text-xl font-semibold mb-2">{p.title}</h3>
-          <p className="text-gray-200">{p.desc}</p>
+          <h3 className="text-xl font-semibold mb-2 text-black">{p.title}</h3>
+          <p className="text-gray-700">{p.desc}</p>
         </div>
       ))}
     </div>

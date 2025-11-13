@@ -20,7 +20,8 @@
   ],
   "about": {
     "title": "About Me",
-    "description": "I'm a passionate Graphic Designer who love bringing ideas into beautiful design"
+    "description": "I'm a passionate Graphic Designer who love bringing ideas into beautiful design",
+    "background": "/images/about-bg.png"
   },
   "contact": {
     "email": "pryhmibrahim@gmail.com",
