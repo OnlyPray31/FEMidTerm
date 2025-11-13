@@ -1,0 +1,28 @@
+{
+  "profile": {
+    "name": "Prayshe Ibrahim",
+    "role": "Graphic Designer",
+    "bio": "I love creating beautiful Graphic Design"
+  },
+  "projects": [
+    {
+      "id": 1,
+      "title": "Design Portofolio",
+      "desc": "Logo for Foundation"
+    },
+    {
+      "id": 2,
+      "title": "T shirt graphic design",
+      "desc": "Making tshirt graphic design for client"
+    }
+  ],
+  "about": {
+    "title": "About Me",
+    "description": "I'm a passionate Graphic Designer who love bringing ideas into beautiful design"
+  },
+  "contact": {
+    "email": "pryhmibrahim@gmail.com",
+    "instagram": "@praysh.i",
+    "location": "Manado, Indonesia"
+  }
+}
