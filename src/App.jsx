@@ -9,7 +9,7 @@ import Contact from "./pages/Contact";
 export default function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gradient-to-br from-indigo-900 to-purple-800 text-white flex flex-col">
+      <div className="min-h-screen bg-gradient-to-br from-[#EE6983] to-pink-300 text-white flex flex-col">
         <Navbar />
 
         <main className="flex-grow p-6">

@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <div className="text-center mt-10">
       <h1 className="text-4xl font-bold mb-2">{profile.name}</h1>
-      <p className="text-xl text-indigo-300">{profile.role}</p>
+      <p className="text-xl text-red-500">{profile.role}</p>
       <p className="max-w-md mx-auto mt-3 text-gray-200">{profile.bio}</p>
     </div>
   );
